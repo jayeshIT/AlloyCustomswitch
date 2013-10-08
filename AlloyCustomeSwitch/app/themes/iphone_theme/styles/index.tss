@@ -1,0 +1,9 @@
+".container": {
+	 backgroundColor:"teal"
+},
+".button1": { top : 10,
+	left : 10,
+	height : 30,
+	width : 60,
+	title : 'green'
+}
