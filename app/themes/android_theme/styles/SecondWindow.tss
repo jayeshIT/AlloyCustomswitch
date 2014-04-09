@@ -1,0 +1,6 @@
+".SecondWindow" : { backgroundColor :'teal',
+	fullScreen : true,
+	exitOnClose : false,
+	navBarHidden : true,
+	statusBarHidden : true
+}
